@@ -1,5 +1,5 @@
 
-# DIO | Resumos Git e Github Teste
+# DIO | Resumos Git e Github 
 
 Repositorio para armazenar resumos sobre Git e Github do curso Versionamento de Código com Git e Github da [Digital innovation Oone](https://github.com/KalecGod).
 
